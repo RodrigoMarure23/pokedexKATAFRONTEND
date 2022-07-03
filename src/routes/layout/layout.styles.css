@@ -1,0 +1,14 @@
+.padingbotomsearch{
+    padding-bottom: 20px;
+    
+} 
+
+nav.padingbotomsearch{
+    row-gap: 20px;
+}
+
+
+.imagenlogo{
+    height: 70px;
+    padding-bottom: 30px;
+}
